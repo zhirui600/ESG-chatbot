@@ -1,0 +1,67 @@
+{
+  "Environmental": {
+    "Climate Change": [
+      "climate", "greenhouse gas", "ghg", "emission", "co2", "carbon footprint",
+      "carbon neutral", "net zero", "global warming", "decarbonization",
+      "carbon reduction", "scope 1", "scope 2", "scope 3"
+    ],
+    "Energy Management": [
+      "energy", "renewable", "solar", "wind", "electricity", "energy efficiency",
+      "energy consumption", "clean energy", "power usage", "kwh", "megawatt",
+      "energy intensity", "green power"
+    ],
+    "Water Management": [
+      "water", "wastewater", "water consumption", "water stewardship",
+      "water withdrawal", "freshwater", "water recycling", "water intensity"
+    ],
+    "Waste Management": [
+      "waste", "recycling", "circular economy", "hazardous waste",
+      "landfill", "e-waste", "waste reduction", "zero waste",
+      "reuse", "composting", "material recovery"
+    ],
+    "Biodiversity": [
+      "biodiversity", "ecosystem", "habitat", "conservation",
+      "deforestation", "wildlife", "natural resource", "land use"
+    ]
+  },
+  "Social": {
+    "Human Capital": [
+      "employee", "workforce", "training", "safety", "occupational",
+      "talent", "retention", "wellbeing", "workplace injury",
+      "employee engagement", "turnover rate", "labor"
+    ],
+    "Diversity & Inclusion": [
+      "diversity", "inclusion", "equity", "gender", "minority",
+      "equal opportunity", "women", "underrepresented", "pay equity",
+      "belonging", "representation"
+    ],
+    "Community & Social Impact": [
+      "community", "volunteer", "donation", "philanthropy",
+      "social impact", "stakeholder", "local community", "charitable",
+      "education", "scholarship"
+    ],
+    "Supply Chain": [
+      "supply chain", "supplier", "sourcing", "procurement",
+      "vendor", "responsible sourcing", "conflict mineral",
+      "supplier diversity", "tier 1", "tier 2"
+    ],
+    "Data Privacy & Security": [
+      "data privacy", "cybersecurity", "data protection", "information security",
+      "gdpr", "data breach", "encryption", "privacy"
+    ]
+  },
+  "Governance": {
+    "Board & Corporate Governance": [
+      "board", "director", "governance", "oversight", "independent director",
+      "board composition", "corporate governance", "shareholder"
+    ],
+    "Ethics & Compliance": [
+      "ethics", "compliance", "anti-corruption", "bribery", "fraud",
+      "code of conduct", "integrity", "whistleblower", "regulatory"
+    ],
+    "Risk Management": [
+      "risk management", "risk assessment", "audit", "internal control",
+      "enterprise risk", "transparency", "disclosure", "materiality"
+    ]
+  }
+}

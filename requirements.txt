@@ -1,0 +1,38 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+
+# PDF extraction
+pdfplumber
+
+# NLP preprocessing
+spacy
+
+# Keyword extraction
+scikit-learn
+keybert
+sentence-transformers
+
+# Sentiment analysis
+nltk
+
+# Topic modeling
+gensim
+
+# Clustering & dimensionality reduction
+umap-learn
+hdbscan
+
+# Association rules
+mlxtend
+
+# Text statistics
+textstat
+
+# Visualization
+wordcloud
+
+# Network analysis
+networkx
